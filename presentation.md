@@ -1,4 +1,4 @@
-  # MeetUp OKFMD 2019-07-04
+    # MeetUp OKFMD 2019-07-04
 
   ## Agenda
 
@@ -31,7 +31,7 @@
   - Onlineportal rund um InformationsfreiheitsG && UmweltinformationsG etc.
   - Anfragen an staatliche Institutionen
   - Projektleiter ist Arne Semsrot (Jaaa, das der Bruder von Nico Sesmrott, MdEP)
-  - Gyphosat-Gutachten -- *wieder Online* --
+  - [Gyphosat-Gutachten](https://fragdenstaat.de/aktionen/zensurheberrecht-2019/#mehr) -- *wieder Online* --
   - Kooperationen mit foodwatch --> TopfSecret
   - FragSieAbi -- Abi-Aufgaben herrausgeben
   - Bspw. [Baumkasteranfrage](https://fragdenstaat.de/anfrage/stadtbaumkataster-stadt-magdeburg-antrag-nach-uig/) von Jens
