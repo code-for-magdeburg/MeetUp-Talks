@@ -1,4 +1,4 @@
-# MeetUp OKFMD 2019-07-04
+  # MeetUp OKFMD 2019-07-04
 ---
 ## Agenda
 
@@ -15,7 +15,10 @@
 ## Auswertung MAGD-O-MAT 
 
 - ~ 25 k Besucher
-- Medienpräsenz im MDR, bei der Volkstimme und im Studentenradio der HS^2 MD-SDL
+- Medienpräsenz 
+  - im MDR, 
+  - bei der Volkstimme
+  - im Studierendenradio der HS^2 MD-SDL
 - unterschiedliches Feedback, meist positiv
 - Verbesserungsvorschäge gibts schon
 - hatte nicht das "Wahlomat-Problem"
